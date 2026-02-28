@@ -23,7 +23,7 @@ Claude: "You've logged 47.3h interactive + 83.1h AI for 130.4h total in March.
      "mcpServers": {
        "cc-toolkit": {
          "command": "npx",
-         "args": ["cc-mcp"]
+         "args": ["@yurukusa/cc-mcp"]
        }
      }
    }
